@@ -1,13 +1,13 @@
 <resources>
-    <string name="cancel">Annulla</string>
-    <string name="cannot_open_document">Impossibile aprire il documento</string>
-    <string name="cannot_open_document_Reason">Impossibile aprire il documento: %1$s</string>
-    <string name="dismiss">Chiudi</string>
-    <string name="enter_password">Inserire password</string>
-    <string name="no_further_occurrences_found">Non sono presenti altre occorrenze¬</string>
-    <string name="not_supported">Non supportato</string>
+    <string name="cancel">Annuler</string>
+    <string name="cannot_open_document">Impossible d'ouvrir le fichier</string>
+    <string name="cannot_open_document_Reason">Impossible d'ouvrir le fichier: %1$s</string>
+    <string name="dismiss">ok</string>
+    <string name="enter_password">Entrer le mot de passe</string>
+    <string name="no_further_occurrences_found">Plus de résultat</string>
+    <string name="not_supported">error2</string>
     <string name="okay">Ok</string>
-    <string name="search">Cerca&#x2026;</string>
-    <string name="searching_">Cercando&#x2026;</string>
-    <string name="text_not_found">Testo non trovato</string>
+    <string name="search">Chercher&#x2026;</string>
+    <string name="searching_">Recherche en cours&#x2026;</string>
+    <string name="text_not_found">Pas d'occurence trouvé</string>
 </resources>
