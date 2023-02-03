@@ -9,5 +9,5 @@
     <string name="okay">Ok</string>
     <string name="search">Chercher&#x2026;</string>
     <string name="searching_">Recherche en cours&#x2026;</string>
-    <string name="text_not_found">Pas d'occurence trouvé</string>
+    <string name="text_not_found">Pas d'occurence trouve</string>
 </resources>
